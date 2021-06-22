@@ -1,5 +1,9 @@
 # encrypt-caesar
+![npm bundle size](https://img.shields.io/bundlephobia/min/encrypt-caesar)
+![NPM](https://img.shields.io/npm/l/encrypt-caesar)
+![npm](https://img.shields.io/npm/v/encrypt-caesar)        
 encrypt and decrypt messages npm module
+
 ## Install with npm 
 ```console
  npm i encrypt-caesar
