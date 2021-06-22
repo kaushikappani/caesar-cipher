@@ -1,11 +1,30 @@
 {
-  "name": "caesar-cipher",
-  "version": "1.1.0",
+  "name": "encrypt-caesar",
+  "version": "1.2.0",
   "description": "encrypt and decrypt messages",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushikappani/caesar-cipher.git"
   },
   "author": "Kaushik appani",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "caesar",
+    "cipher",
+    "caesar cipher",
+    "caesar-cipher",
+    "caesar_cipher",
+    "encode",
+    "decode",
+    "hash",
+    "encrypt"
+  ],
+  "bugs": {
+    "url": "https://github.com/kaushikappani/caesar-cipher/issues"
+  },
+  "homepage": "https://github.com/kaushikappani/caesar-cipher#readme"
 }
